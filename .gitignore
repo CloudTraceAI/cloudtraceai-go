@@ -1,0 +1,4 @@
+**/*.sum
+.DS_Store
+**/*.log
+**/*.db
